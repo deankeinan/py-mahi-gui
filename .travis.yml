@@ -21,6 +21,7 @@ jobs:
       env: DOCKER_IMAGE=pypywheels/manylinux2010-pypy_x86_64
            PLAT=manylinux2010_x86_64
     - arch: arm64-graviton2
+      group: edge
       virt: vm
       env: DOCKER_IMAGE=quay.io/pypa/manylinux2014_aarch64
            PLAT=manylinux2014_aarch64
