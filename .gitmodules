@@ -3,4 +3,4 @@
 	url = https://github.com/pybind/pybind11.git
 [submodule "thirdparty/mahi-gui"]
 	path = thirdparty/mahi-gui
-	url = https://github.com/JoelLinn/mahi-gui.git
+	url = https://github.com/deankeinan/mahi-gui.git
